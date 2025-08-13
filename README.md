@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 AI Agriculture Advisor
 
 An intelligent web application that provides farmers with data-driven crop advice, weather insights, and market price predictions to optimize farming operations.
@@ -277,3 +278,6 @@ For support and questions:
 **🌾 Happy Farming with AI!** 🚀
 
 *This project aims to democratize agricultural technology and help farmers make data-driven decisions for better crop yields and profitability.* 
+=======
+# crop-proj
+>>>>>>> c8923aec1b62a46afa25e51383778b6998f38374
